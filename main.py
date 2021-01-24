@@ -77,7 +77,7 @@ def show_score(x, y):
 
 
 def game_over_text():
-    over_text = over_font.render("GAME OVER", True, (255, 255, 255))
+    over_text = over_font.render("GAME OVER LETS WORK TOGETHER TO SAVE THE ENVIRONMENT", True, (255, 255, 255))
     screen.blit(over_text, (200, 250))
 
 
